@@ -1,0 +1,1 @@
+word_list = ["nube", "motor", "cristal", "salto", "fuego", "sombra", "codigo", "rio", "acero", "planeta"]
